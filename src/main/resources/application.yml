@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: first-app
+
+server:
+    port: 1000
+    servlet:
+        context-path: /first-app
+
